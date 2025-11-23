@@ -3,8 +3,6 @@ import mesa_model
 import landscapefunctions
 import os
 
-# test
-
 # generation_params = {'seed': 4}
 
 # example of generation params for landscapefunctions.multipleGaussians : 
